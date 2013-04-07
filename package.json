@@ -1,0 +1,10 @@
+{
+  "author": "mattinsler <mattinsler@gmail.com>",
+  "name": "caboose-mailer",
+  "description": "Mailer support for caboose",
+  "version": "0.0.1",
+  "main": "index",
+  "dependencies": {
+    "nodemailer": "latest"
+  }
+}
